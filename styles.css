@@ -1,0 +1,29 @@
+.gamer-bg {
+    background-image: url('gamer-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding-top: 50px;
+  }
+  
+  .gamer-card {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 2px solid #00ff00;
+  }
+  
+  .gamer-range {
+    background-color: #000;
+  }
+  
+  .gamer-input {
+    background-color: #000;
+    color: #00ff00;
+  }
+  
+  .color-preview {
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+  }
+  
